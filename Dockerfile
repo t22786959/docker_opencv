@@ -1,4 +1,4 @@
-FROM python:3.6.9-slim
+FROM python:3.8.16
 
 
 # install dependencies
